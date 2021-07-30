@@ -1,0 +1,6 @@
+key = 'insert_your_api_key_here'
+url_result = 'https://parser.im/api.php'
+tags_file = 'tag.txt'
+tasks_file = '~taskid.txt'
+result_file = 'hashtag_frequency.txt'
+log_file = '~status.txt'
